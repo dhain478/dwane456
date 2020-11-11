@@ -4,8 +4,8 @@
 
 <div class="jumbotron jumbotron-fluid">
   <div class="container" style="text-align:center;">
-    <h1 class="display-3">School of the 1st Century</h1>
-    <p class="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+    <h1 class="display-3">University of Japan</h1>
+    <p class="lead">This is a modified jumbotron that occupies the entire thing of the object data.</p>
   </div>
 </div>
 <br><br>

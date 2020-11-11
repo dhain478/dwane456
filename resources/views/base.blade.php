@@ -8,12 +8,12 @@
     <script src="{{asset ('js/bootstrap.js')}}"></script>
     <title>My Site</title>
 </head>
-<body style="background-color: rgb(247, 244, 240); font-family:Century Gothic;">
+<body style="background-color: rgb(247, 244, 140); font-family:Century Gothic;">
 <style>
 
 .topnav {
   overflow: hidden;
-  background-color: rgb(77, 75, 74);
+  background-color: rgb(83, 86, 88);
   
 }
 
@@ -26,7 +26,7 @@
 }
 
 .topnav a:hover {
-  background-color:   rgb(138, 127, 114);
+  background-color:   rgb(131, 152, 114);
   color: black;
 }
 
