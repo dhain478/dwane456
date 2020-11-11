@@ -4,7 +4,7 @@
 
 <div class="jumbotron jumbotron-fluid">
   <div class="container" style="text-align:center;">
-    <h1 class="display-3">Mary School of Intellect</h1>
+    <h1 class="display-3">School of the 1st Century</h1>
     <p class="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
   </div>
 </div>
